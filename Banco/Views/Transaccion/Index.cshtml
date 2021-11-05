@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Cuenta</th>
+            <th>Fecha de Transaccion</th>
+            <th>Descripcion</th>
+            <th>Monto</th>
+            <th>Tipo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.Cuenta.Nombre</td>
+            <td>@item.Fecha</td>
+            <td>@item.Descripcion</td>
+            <td>@item.Monto</td>
+
+            @if (item.Tipo == true)
+            {
+                <td>Ingreso</td>
+            }
+            else
+            {
+                <td>Gasto</td>
+            }
+
+        </tr>
+        }
+    </tbody>
+</table>

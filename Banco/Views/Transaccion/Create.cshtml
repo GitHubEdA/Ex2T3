@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+<br />
+<form action="/transaccion/create" method="post">
+
+    <input type="hidden" name="IdCuenta" value="@ViewBag.Cuenta.IdCuenta" />
+
+    <div class="form-group">
+        <label>Descripcion </label>
+        <input type="text" class="form-control" name="Descripcion" value="@Model.Descripcion" />
+    </div>
+    <br />
+    <div class="form-group">
+        <label>Monto </label>
+        <input type="text" class="form-control" name="Monto" value="@Model.Monto" />
+    </div>
+    <br />
+    @if (ViewBag.Cuenta.Categoria == "Propia")
+    {
+        <div class="form-group">
+            <label>Ingreso(T)/Gasto(F) </label>
+            <input type="checkbox" name="Tipo" value="true" />
+        </div>
+    }
+    else
+    {
+        <input type="hidden" name="Tipo" value="false" />
+    }
+
+    <div align="center">
+        <button class="btn btn-success">Guardar</button>
+    </div>
+</form>

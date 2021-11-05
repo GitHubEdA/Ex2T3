@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Create";
+}
+
+    <table class="table">
+
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Agregar amigo</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Usuario</td>
+                    <td>
+                        <a href="/amigo/solicitud/?IdUsuario=@item.IdUsuario" role="button">Enviar Solicitud</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+
+

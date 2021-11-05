@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+<br />
+<form action="/cuenta/create" method="post">
+    <div class="form-group">
+        <label>Ingresar Nombre de Cuenta</label>
+        <input type="text" class="form-control" name="Nombre" value="@Model.Nombre"/>
+        @Html.ValidationMessage("Nombre")
+    </div>
+
+    <div class="form-group">
+        <label>Categoria</label>
+        <select class="form-control" name="Categoria">
+            <option>-- Seleccione Valor --</option>
+            @foreach (var item in ViewBag.Categoria)
+            {
+                <option value="@item">@item</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>Ingrese Saldo Inicial </label>
+        <input type="text" class="form-control" name="SaldoInicial" value="@Model.SaldoInicial"/>
+        @Html.ValidationMessage("SaldoInicial")
+    </div>
+    <br />
+    <div align="center">
+        <button class="btn btn-success">Guardar</button>
+    </div>
+</form>

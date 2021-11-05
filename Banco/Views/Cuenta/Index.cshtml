@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<br />
+<div align="right">
+    <a href="/cuenta/create" class="btn btn-primary">Crear cuenta</a>
+</div>
+<br />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Categoria</th>
+            <th>Le queda</th>
+            <th>Limite de credito</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Categoria</td>
+                <td>@item.SaldoInicial</td>
+                @if (item.Categoria == "Credito")
+                {
+                    <td>@item.LimiteCuenta</td>
+                }
+                else
+                {
+                    <td></td>
+                }
+                <td><a href="/transaccion/create?IdCuenta=@item.IdCuenta">Crear transacción</a></td>
+                <td><a href="/transaccion/index?IdCuenta=@item.IdCuenta">Mis transacciones</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

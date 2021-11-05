@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+<br />
+<form action="/interbancaria/create" method="post">
+
+    <div class="form-group">
+        <label>Cuenta Inicial</label>
+        <select class="form-control" name="IdCuentaInicio">
+            <option>-- Seleccione Valor --</option>
+            @foreach (var item in Model)
+            {
+                <option value="@item.IdCuenta">@item.Nombre</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>Ingrese Monto</label>
+        <input type="text" class="form-control" name="Monto" />
+    </div>
+
+    <div class="form-group">
+        <label>Cuenta Destino</label>
+        <select class="form-control" name="IdCuentaFin">
+            <option>-- Seleccione Valor --</option>
+            @foreach (var item in ViewBag.Interbancarias)
+            {
+                <option value="@item.IdCuenta">@item.Nombre</option>
+            }
+        </select>
+    </div>
+
+    <div align="center">
+        <button class="btn btn-success">Guardar</button>
+    </div>
+</form>

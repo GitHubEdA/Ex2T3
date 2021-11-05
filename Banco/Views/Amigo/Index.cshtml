@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<br />
+<div align="right">
+    <a href="/amigo/create" class="btn btn-primary">Agregar amigo</a>
+</div>
+<br />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Opciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.User.Usuario</td>
+                <td><a href="/interbancaria/create?IdUsuario=@item.User.IdUsuario">Hacer transferencia</a></td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+
+<div align="right">
+    <a href="/Auth/Logout">Retroceder</a>
+</div>
+
+

@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Opciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @if (item.Estado == "Pendiente")
+                {
+                    <td>@item.User.Usuario</td>
+                    <td><a href="/solicitud/aceptar?IdUsuario=@item.User.IdUsuario&IdSolicitud=@item.IdSolicitud">Aceptar</a></td>
+                }
+            </tr>
+
+        }
+    </tbody>
+</table>
+

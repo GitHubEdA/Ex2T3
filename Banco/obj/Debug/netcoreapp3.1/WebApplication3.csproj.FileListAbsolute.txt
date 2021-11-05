@@ -1,0 +1,644 @@
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.exe
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorAssemblyInfo.cache
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorAssemblyInfo.cs
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfo.cs
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.TagHelpers.input.cache
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.TagHelpers.output.cache
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorCoreGenerate.cache
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cs
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.Manifest.cache
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.xml
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CopyComplete
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.deps.json
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.json
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.dev.json
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.pdb
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.Views.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.Views.pdb
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.Views.pdb
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.pdb
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.genruntimeconfig.cache
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Consulta.cshtml.g.cs
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Tema\Index.cshtml.g.cs
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Tema\Create.cshtml.g.cs
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Tema\Editar.cshtml.g.cs
+C:\Users\andre\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Pregunta\Index.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.exe
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.deps.json
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.json
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.dev.json
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.pdb
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.Views.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.Views.pdb
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csprojAssemblyReference.cache
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorAssemblyInfo.cache
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorAssemblyInfo.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfo.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.TagHelpers.input.cache
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.TagHelpers.output.cache
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorCoreGenerate.cache
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Consulta.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Pregunta\Index.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Tema\Create.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Tema\Editar.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Tema\Index.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.Views.pdb
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CopyComplete
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.Manifest.cache
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.xml
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.pdb
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.genruntimeconfig.cache
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Home\View.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Pregunta\Create.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Alternativa\Create.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Json.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Examen\Index.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index - Copia.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index - Copia (2).cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Create.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Tema\Random.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eduardo Tejada\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Examen\Create.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\WebApplication3.exe
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\WebApplication3.deps.json
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.json
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.dev.json
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\WebApplication3.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\WebApplication3.pdb
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\WebApplication3.Views.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\WebApplication3.Views.pdb
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\System.Json.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.csprojAssemblyReference.cache
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfo.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.RazorAssemblyInfo.cache
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.RazorAssemblyInfo.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.TagHelpers.input.cache
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.TagHelpers.output.cache
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.RazorCoreGenerate.cache
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Create.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Home\View.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.Views.pdb
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CopyComplete
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.Manifest.cache
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.xml
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.dll
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.pdb
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.genruntimeconfig.cache
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Cuenta\Create.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Cuenta\Index.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Transaccion\Create.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Transaccion\Index.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Users\Eduardo Tejada\Source\Repos\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Transferencia\Create.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\WebApplication3.exe
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\WebApplication3.deps.json
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.json
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.dev.json
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\WebApplication3.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\WebApplication3.pdb
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\WebApplication3.Views.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\WebApplication3.Views.pdb
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\EntityFramework.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\System.Json.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.csprojAssemblyReference.cache
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfoInputs.cache
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfo.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CoreCompileInputs.cache
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.RazorAssemblyInfo.cache
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.RazorAssemblyInfo.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.Manifest.cache
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.xml
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication3.styles.css
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.TagHelpers.input.cache
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.TagHelpers.output.cache
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.RazorCoreGenerate.cache
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Create.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Cuenta\Create.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Cuenta\Index.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Home\View.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Transaccion\Create.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Transaccion\Index.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Transferencia\Create.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cache
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.Views.pdb
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CopyComplete
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.dll
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.pdb
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\WebApplication3.genruntimeconfig.cache
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Amigo\Index.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Amigo\Create.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Solicitud\Index.cshtml.g.cs
+F:\Estudios universidad\Ciclo 8\Calidad y pruebas de software\DIARS\Banco\Banco\obj\Debug\netcoreapp3.1\Razor\Views\Interbancaria\Create.cshtml.g.cs
